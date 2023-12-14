@@ -46,7 +46,7 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 4. 이제 임포트가면 rendor doc section이 보임 거기서 임포트해주면됨
 ```
 
-## 3. References
+## 3. References
 
 ```
 1.
