@@ -1,6 +1,6 @@
 # Render_doc_tutorial
 
-## 1 Version control
+## 1. Version control
 
 ```
 Test date : 2023-DEC-14
@@ -11,22 +11,22 @@ MapsModelsImporter : v0.6.2 (https://github.com/eliemichel/MapsModelsImporter/re
 Browser : Microsoft Edge
 ```
 
-## 2 Tutorial
+## 2. Tutorial
 
-### Install
+### a. Install
 
 ```
 Install every software mentioned avobe "1_Version control" section, each software version is very important 
 ```
 
-### Setup Browser
+### b. Setup Browser
 
 ```
 1. 엣지에서 어드벤스 꺼줘야함
 2. 바탕화면에 이걸로 바로가기 만들어야함 ()
 ```
 
-### Render doc
+### c. Render doc
 
 ```
 1. injection 켜주고 나서 다시시작
@@ -37,7 +37,7 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 6. 저장된거임
 ```
 
-### Blender
+### d. Blender
 
 ```
 1. 버젼컨트롤에서 다운받은 MapsModelsImporter 를 설치해야함
@@ -46,7 +46,7 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 4. 이제 임포트가면 rendor doc section이 보임 거기서 임포트해주면됨
 ```
 
-## 3 References
+## 3. References
 
 ```
 1.
