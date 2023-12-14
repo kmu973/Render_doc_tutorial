@@ -22,7 +22,7 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 ### Setup Browser
 
 ```
-1.  엣지에서 어드벤스 꺼줘야함
+1. 엣지에서 어드벤스 꺼줘야함
 2. 바탕화면에 이걸로 바로가기 만들어야함 ()
 ```
 
@@ -44,4 +44,11 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 2. 패키지메니져 가서 다운받은 zip파일로 설치
 3. 그리고 그 패키지 선택
 4. 이제 임포트가면 rendor doc section이 보임 거기서 임포트해주면됨
+```
+
+## 3 References
+
+```
+1.
+2.
 ```
