@@ -13,20 +13,20 @@ Browser : Microsoft Edge
 
 ## 2. Tutorial
 
-### a. Install
+#### a. Install
 
 ```
 Install every software mentioned avobe "1_Version control" section, each software version is very important 
 ```
 
-### b. Setup Browser
+#### b. Setup Browser
 
 ```
 1. 엣지에서 어드벤스 꺼줘야함
 2. 바탕화면에 이걸로 바로가기 만들어야함 ()
 ```
 
-### c. Render doc
+#### c. Render doc
 
 ```
 1. injection 켜주고 나서 다시시작
@@ -37,7 +37,7 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 6. 저장된거임
 ```
 
-### d. Blender
+#### d. Blender
 
 ```
 1. 버젼컨트롤에서 다운받은 MapsModelsImporter 를 설치해야함
