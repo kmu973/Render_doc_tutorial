@@ -23,7 +23,7 @@ Install every software mentioned avobe "1_Version control" section, each softwar
 
 ```
 1. 엣지에서 어드벤스 꺼줘야함
-2. 바탕화면에 이걸로 바로가기 만들어야함 ()
+2. 바탕화면에 이걸로 바로가기 만들어야함 (C:\Windows\System32\cmd.exe /c "SET RENDERDOC_HOOK_EGL=0 && START "" ^"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe^" --disable-gpu-sandbox --gpu-startup-dialog")
 ```
 
 #### c. Render doc
